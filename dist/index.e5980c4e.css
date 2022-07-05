@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.box {
+  width: 20%;
+  height: 20%;
+  background-color: #0ff;
+  border-radius: 10%;
+}
+
+/*# sourceMappingURL=index.e5980c4e.css.map */
